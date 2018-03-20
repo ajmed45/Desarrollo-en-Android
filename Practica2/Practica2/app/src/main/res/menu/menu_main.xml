@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ActividadUsuarios">
+    <item
+        android:id="@+id/start_sharing"
+        android:orderInCategory="100"
+        android:title="@string/start_sharing"
+        android:icon="@android:drawable/ic_menu_share"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/stop_sharing"
+        android:orderInCategory="100"
+        android:title="@string/stop_sharing"
+        android:icon="@android:drawable/btn_minus"
+        app:showAsAction="always" />
+</menu>

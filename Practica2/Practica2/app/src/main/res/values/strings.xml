@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Practica2</string>
+    <string name="prefs_name">Ajustes</string>
+    <string name="send">Enviar</string>
+
+    <string name="action_settings">Ajustes</string>
+    <string name="action_atras">Atras</string>
+    <string name="boton1">Guardar estadísticas</string>
+    <string name="boton2">Guardar</string>
+    <string name="juegos_set">Juegos por set</string>
+    <string name="num_sets">Numero de sets</string>
+    <string name="punto_oro">Punto de oro en tie break</string>
+    <string name="start_sharing"></string>
+    <string name="stop_sharing"></string>
+</resources>
